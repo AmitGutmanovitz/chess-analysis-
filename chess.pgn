@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.07.04"]
+[Round "-"]
+[White "mikemontilla"]
+[Black "amitgut"]
+[Result "0-1"]
+[CurrentPosition "6k1/pp1bppbp/3p2p1/7P/6P1/1P3P2/1PP2n2/1K1R3R w - - 1 23"]
+[Timezone "UTC"]
+[ECO "B76"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Yugoslav-Attack-7...O-O-8.Qd2-Nc6"]
+[UTCDate "2025.07.04"]
+[UTCTime "14:34:41"]
+[WhiteElo "1470"]
+[BlackElo "1489"]
+[TimeControl "180+2"]
+[Termination "amitgut won by resignation"]
+[StartTime "14:34:41"]
+[EndDate "2025.07.04"]
+[EndTime "14:41:17"]
+[Link "https://www.chess.com/analysis/game/live/140323334106?tab=analysis"]
+[WhiteUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
+[WhiteCountry "34"]
+[WhiteTitle ""]
+[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/163799011.6cd221dc.50x50o.4f00c6b1c097.jpg"]
+[BlackCountry "75"]
+[BlackTitle ""]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Na5 11. Be2 Rc8 12. Bh6 $6 Nc4 13. Bxc4 $1 Rxc4 14. h4 $4
+Rxd4 $1 15. Qxd4 Bxh6+ 16. Kb1 Qb6 17. Qd3 $6 Rc8 18. g4 Bg7 19. h5 Rxc3 20. Qxc3
+Nxe4 21. Qb3 Qxb3 22. axb3 Nf2 0-1
